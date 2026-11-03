@@ -1,0 +1,10 @@
+Domain,Total_Packets,Unique_Servers,Total_Bytes,Avg_Packet_Size,Total_KB
+Domain not detected,16201,8,13970259,862.31,13642.83
+i.ytimg.com,1603,1,1380158,860.98,1347.81
+www.youtube.com,972,1,658408,677.37,642.98
+www.gstatic.com,154,1,104758,680.25,102.3
+tpc.googlesyndication.com,59,1,43495,737.2,42.48
+www.bing.com,59,2,15046,255.02,14.69
+stats.g.doubleclick.net,33,1,11824,358.3,11.55
+ssl.gstatic.com,17,1,9229,542.88,9.01
+www.google.com,10,1,905,90.5,0.88

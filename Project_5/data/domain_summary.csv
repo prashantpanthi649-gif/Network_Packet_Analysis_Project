@@ -1,0 +1,43 @@
+Domain,Observations,Destination_IPs
+r.msftstatic.com,7,2620:1ec:33:1::10
+r.bing.com,6,"2600:140f:e::b81a:3609, 2600:140f:e::b81a:3629"
+www.bing.com,4,2600:140f:7200:3c::17d4:c5
+www.gstatic.com,4,2404:6800:4002:81d::2003
+yt3.ggpht.com,3,2404:6800:4003:c03::84
+github.githubassets.com,3,2606:50c0:8000::215
+edge.microsoft.com,3,2620:1ec:33::11
+realtime-signalr.roblox.com,3,"128.116.50.3, 128.116.97.3"
+analytics.google.com,2,"2001:4860:4802:32::181, 2001:4860:4802:34::181"
+accounts.google.com,2,2404:6800:4013:813::54
+session.snapchat.com,2,34.86.118.39
+fonts.googleapis.com,2,2404:6800:4013:802::5f
+us-central1-gcp.api.snapchat.com,2,35.190.43.134
+github.com,2,20.205.243.166
+contacts.google.com,2,2404:6800:4013:813::65
+appsgrowthpromo-pa.clients6.google.com,1,2404:6800:4013:800::5f
+ass,1,43.169.32.72
+assets.msn.com,1,2400:1a00:cd11:a112::67d3:9568
+browser.events.data.msn.com,1,20.89.1.13
+c.msn.com,1,2603:1061:14:150::1
+assets.msn.cn,1,43.169.32.72
+login.live.com,1,40.126.16.163
+mail.google.com,1,2404:6800:4013:807::13
+login.microsoftonline.com,1,2603:1047:1:168::18
+growth-web-dev-tool.mesh.sc-corp.net,1,35.190.16.123
+gmail.com,1,2404:6800:4002:81d::2005
+sentry.sc-prod.net,1,35.190.39.56
+ogs.google.com,1,2404:6800:4013:807::8b
+platform.twitter.com,1,151.101.104.157
+pro.fontawesome.com,1,2606:4700:4404::6812:2844
+ntp.msn.com,1,2400:1a00:cd11:a112::67d3:9573
+static.doubleclick.net,1,2404:6800:4013:807::95
+th.bing.com,1,2600:140f:e::b81a:360b
+srtb.msn.com,1,150.171.27.10
+waa-pa.clients6.google.com,1,2404:6800:4013:813::5f
+vcf.bing.com,1,2a06:98c1:3109::ac40:9aa7
+www.googletagmanager.com,1,2404:6800:4013:800::61
+www.google.com.np,1,2404:6800:4013:800::5e
+www.setopati.com,1,163.47.150.180
+www.youtube.com,1,2001:4860:482a:400::
+xpaywalletcdn-prod.azureedge.net,1,2603:1061:14:150::1
+youtube.com,1,2404:6800:4000:1010::88

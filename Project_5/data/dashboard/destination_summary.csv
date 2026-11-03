@@ -1,0 +1,89 @@
+Remote IP,Total_Packets,Total_Bytes,Protocols,Domain
+2404:6800:4013:807::13,11499,9976646,TCP,mail.google.com
+2001:4860:482a:400::,2939,2624940,TCP,www.youtube.com
+2606:50c0:8000::215,2381,2049977,TCP,github.githubassets.com
+2400:1a00:cd11:a112::67d3:9568,1686,1167436,TCP,assets.msn.com
+2404:6800:4013:800::61,1213,1030253,TCP,www.googletagmanager.com
+163.47.150.180,1122,1002130,TCP,www.setopati.com
+2400:1a00:cd11:a112::67d3:9573,1122,839522,TCP,ntp.msn.com
+20.89.1.13,1091,949553,TCP,browser.events.data.msn.com
+2400:1a00:8000:4::73,1071,163020,UDP,Domain not detected
+2600:140f:7200:3c::17d4:c5,644,600651,TCP,www.bing.com
+2404:6800:4002:81d::2003,582,459785,TCP,www.gstatic.com
+2606:4700:4404::6812:2844,552,414622,TCP,pro.fontawesome.com
+2001:4860:4822:600::,338,276569,TCP,i.ytimg.com
+2620:1ec:33:1::10,275,145399,TCP,"c.bing.com, r.msftstatic.com"
+150.171.27.10,267,150248,TCP,"c.bing.com, r.msftstatic.com, srtb.msn.com"
+2600:140f:e::b81a:360b,241,151110,TCP,"r.bing.com, th.bing.com"
+2404:6800:4013:813::8b,230,179314,TCP,"apis.google.com, contacts.google.com"
+2404:6800:4013:813::53,223,154863,TCP,mail-ads.google.com
+74.151.238.131,192,58752,TCP,Domain not detected
+2620:1ec:33::11,184,88603,TCP,edge.microsoft.com
+2404:6800:4013:802::5f,173,79574,TCP,"fonts.googleapis.com, peoplestack-pa.clients6.google.com"
+2600:140f:e::b81a:3609,158,53612,TCP,"r.bing.com, th.bing.com"
+20.205.243.166,152,89823,TCP,github.com
+2404:6800:4013:813::54,145,63984,TCP,accounts.google.com
+2404:6800:4003:c03::84,145,78138,TCP,yt3.ggpht.com
+2404:6800:4002:81b::2001,141,105412,TCP,tpc.googlesyndication.com
+2404:6800:4002:828::2003,141,116613,TCP,fonts.gstatic.com
+34.149.46.130,134,77546,TCP,www.snapchat.com
+35.190.43.134,122,39363,TCP,"gcp.api.snapchat.com, us-central1-gcp.api.snapchat.com"
+2603:1061:14:150::1,119,33013,TCP,"c.msn.com, xpaywalletcdn-prod.azureedge.net"
+20.205.243.168,111,54769,TCP,api.github.com
+43.169.32.72,108,37365,TCP,assets.msn.cn
+128.116.97.3,97,48015,TCP,realtime-signalr.roblox.com
+40.126.16.163,93,75929,TCP,"login.live.com, login.microsoftonline.com"
+20.247.168.158,84,39447,TCP,nav-edge.smartscreen.microsoft.com
+34.86.118.39,74,27089,TCP,session.snapchat.com
+35.190.39.56,74,24453,TCP,sentry.sc-prod.net
+13.225.5.126,74,24197,TCP,"sb.scorecardresearch.com, static.snapchat.com"
+140.82.114.22,71,39679,TCP,Domain not detected
+2404:6800:4013:813::65,65,38703,TCP,"apis.google.com, contacts.google.com, lh3.google.com"
+2400:52e0:1500::944:1,63,36041,TCP,cdn.linearicons.com
+2620:1ec:33:1::11,62,31200,TCP,edge.microsoft.com
+151.101.104.157,62,41867,TCP,platform.twitter.com
+2603:1047:1:168::18,61,51297,TCP,login.microsoftonline.com
+2404:6800:4002:81b::200e,59,35775,TCP,www.google-analytics.com
+2404:6800:4013:807::8b,59,40622,TCP,"accounts.youtube.com, ogs.google.com"
+2404:6800:4013:800::5e,53,16736,TCP,www.google.com.np
+2404:6800:4002:82a::2001,51,22978,TCP,lh3.googleusercontent.com
+2606:4700:4408::ac40:9bd1,50,29370,TCP,Domain not detected
+13.200.121.29,47,18613,TCP,aws.api.snapchat.com
+2404:6800:4013:813::5f,46,18486,TCP,"addons-pa.clients6.google.com, waa-pa.clients6.google.com"
+2404:6800:4013:800::5f,43,19488,TCP,appsgrowthpromo-pa.clients6.google.com
+35.190.16.123,43,12549,TCP,growth-web-dev-tool.mesh.sc-corp.net
+2404:6800:4013:807::64,43,17462,TCP,"accounts.youtube.com, ogs.google.com"
+2606:4700:4403::ac40:94eb,42,4386,TCP,Domain not detected
+2400:1a00:0:32::165,42,6489,UDP,Domain not detected
+2a06:98c1:3109::ac40:9aa7,42,17918,TCP,vcf.bing.com
+2404:6800:4013:813::9a,41,14457,TCP,stats.g.doubleclick.net
+2404:6800:4013:807::5f,38,16686,TCP,peoplestackwebexperiments-pa.clients6.google.com
+2400:1a00:cd11:a112::67d3:953b,38,17000,TCP,deff.nelreports.net
+128.116.50.3,36,11624,TCP,realtime-signalr.roblox.com
+2404:6800:4000:1010::88,36,19017,TCP,youtube.com
+2620:1ec:33::10,36,19548,TCP,"c.bing.com, r.msftstatic.com"
+2404:6800:4002:81d::200a,36,16429,TCP,signaler-pa.clients6.google.com
+2404:6800:4013:813::66,34,15681,TCP,lh3.google.com
+2404:6800:4013:811::5f,33,16151,TCP,ogads-pa.clients6.google.com
+2001:4860:4829:700::,32,12522,TCP,play.google.com
+2404:6800:4002:830::200a,31,16075,TCP,taskassist-pa.clients6.google.com
+2606:50c0:8003::154,31,14871,TCP,"avatars.githubusercontent.com, user-images.githubusercontent.com"
+2404:6800:4002:81d::2005,30,10549,TCP,gmail.com
+2001:4860:4802:34::181,29,12714,TCP,analytics.google.com
+2620:1ec:33:1::12,29,14660,TCP,api.msn.com
+2404:6800:4013:807::95,28,11103,TCP,static.doubleclick.net
+2600:9000:2379:a800:c:abe:f440:93a1,27,11783,TCP,Domain not detected
+172.192.176.118,25,13322,TCP,arc.msn.com
+140.82.113.25,24,8448,TCP,alive.github.com
+2600:140f:e::b81a:3629,21,9274,TCP,r.bing.com
+3.163.238.4,21,8349,TCP,cf-st.sc-cdn.net
+2600:1901:0:9140::,20,9540,TCP,bolt-gcdn.sc-cdn.net
+2001:4860:4802:32::181,18,8922,TCP,analytics.google.com
+142.250.183.229,18,5709,TCP,gmail.com
+35.227.210.77,18,8973,TCP,s.sc-cdn.net
+195.64.114.11,16,936,TCP,Domain not detected
+2404:6800:4013:813::5e,7,1565,TCP,ssl.gstatic.com
+2400:1a00:cd11:a112::67d3:955b,5,394,TCP,Domain not detected
+150.171.110.81,3,186,TCP,"c.msn.com, xpaywalletcdn-prod.azureedge.net"
+2603:1040:a06:6::1,2,161,TCP,Domain not detected
+8.8.8.8,2,236,UDP,Domain not detected

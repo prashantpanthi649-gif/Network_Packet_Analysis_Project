@@ -1,0 +1,7 @@
+## PacketScope — Network Traffic Analysis and Visualization
+
+PacketScope is a Python-based network traffic analysis project developed to capture, inspect, analyze, and visualize network activity from a personal computer. Using Python and Scapy, the project captures live network packets through a Wi-Fi interface and identifies important networking information, including IPv4 and IPv6 addresses, TCP and UDP protocols, source and destination ports, packet sizes, and traffic directions.
+
+The project performs deeper network analysis by examining TCP flags and handshake timing, extracting domain names from TLS Server Name Indication (SNI), analyzing DNS queries and responses, and investigating UDP port 443 traffic commonly associated with QUIC and HTTP/3. It also maps remote IP addresses to known domain names where possible and studies network destinations, incoming and outgoing traffic, protocol distribution, and packet-size patterns.
+
+Finally, PacketScope uses Pandas for data processing and Plotly for interactive visualizations, presenting findings through charts such as domain activity, protocol distribution, network destinations, and traffic timelines. A Streamlit application brings these analysis results together in an interactive dashboard, making network behavior easier to explore and understand. The project demonstrates practical applications of computer networking, packet analysis, Python programming, and data visualization.

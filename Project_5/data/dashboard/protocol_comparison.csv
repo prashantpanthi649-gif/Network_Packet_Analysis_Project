@@ -1,0 +1,4 @@
+Protocol,Packets
+TCP,30651
+DNS (UDP 53),1115
+UDP 443 (QUIC candidate),19108

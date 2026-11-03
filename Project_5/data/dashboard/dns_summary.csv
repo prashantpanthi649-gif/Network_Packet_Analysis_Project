@@ -1,0 +1,97 @@
+Domain,DNS_Requests,DNS_Servers,Avg_Packet_Size
+www.bing.com,50,2400:1a00:8000:4::73,92.0
+setpati.com,30,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",91.0
+login.live.com,19,2400:1a00:8000:4::73,94.0
+edge.microsoft.com,18,2400:1a00:8000:4::73,98.0
+mail.google.com,17,2400:1a00:8000:4::73,95.0
+ntp.msn.com,15,2400:1a00:8000:4::73,91.0
+accounts.google.com,13,2400:1a00:8000:4::73,99.0
+www.google.com,12,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",94.0
+login.microsoftonline.com,11,2400:1a00:8000:4::73,105.0
+www.facebook.com,10,2400:1a00:8000:4::73,96.0
+c.sharethis.mgr.consensu.org,10,2400:1a00:8000:4::73,108.0
+www.setopati.com,10,2400:1a00:8000:4::73,96.0
+fonts.gstatic.com,9,2400:1a00:8000:4::73,97.0
+www.gstatic.com,9,2400:1a00:8000:4::73,95.0
+r.bing.com,9,2400:1a00:8000:4::73,90.0
+fonts.googleapis.com,9,2400:1a00:8000:4::73,100.0
+www.youtube.com,8,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",95.0
+github.com,8,2400:1a00:8000:4::73,90.0
+sb.scorecardresearch.com,7,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",104.0
+r.msftstatic.com,6,2400:1a00:8000:4::73,96.0
+nav-edge.smartscreen.microsoft.com,6,2400:1a00:8000:4::73,114.0
+img-s-msn-com.akamaized.net,6,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",107.0
+apis.google.com,6,2400:1a00:8000:4::73,95.0
+analytics.google.com,6,2400:1a00:8000:4::73,100.0
+browser.events.data.msn.com,6,2400:1a00:8000:4::73,107.0
+functional.events.data.microsoft.com,6,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",116.0
+c.msn.com,6,2400:1a00:8000:4::73,89.0
+assets.msn.com,6,2400:1a00:8000:4::73,94.0
+www.snapchat.com,6,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",96.0
+www.google.com.np,6,2400:1a00:8000:4::73,97.0
+stats.g.doubleclick.net,6,2400:1a00:8000:4::73,103.0
+srtb.msn.com,6,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",92.0
+th.bing.com,6,2400:1a00:8000:4::73,91.0
+wpad.worldlink.com.np,6,2400:1a00:8000:4::73,101.0
+www.googletagmanager.com,6,2400:1a00:8000:4::73,104.0
+contacts.google.com,5,2400:1a00:8000:4::73,99.0
+gmail.com,5,2400:1a00:8000:4::73,89.0
+ogs.google.com,5,2400:1a00:8000:4::73,94.0
+realtime-signalr.roblox.com,4,"2400:1a00:0:32::165, 2400:1a00:8000:4::73",107.0
+deff.nelreports.net,3,2400:1a00:8000:4::73,99.0
+github-cloud.s3.amazonaws.com,3,2400:1a00:8000:4::73,109.0
+gcp.api.snapchat.com,3,2400:1a00:8000:4::73,100.0
+arc.msn.com,3,2400:1a00:8000:4::73,91.0
+appsgrowthpromo-pa.clients6.google.com,3,2400:1a00:8000:4::73,118.0
+assets.msn.cn,3,2400:1a00:8000:4::73,93.0
+avatars.githubusercontent.com,3,2400:1a00:8000:4::73,109.0
+aws.api.snapchat.com,3,2400:1a00:8000:4::73,100.0
+bolt-gcdn.sc-cdn.net,3,2400:1a00:8000:4::73,100.0
+accounts.youtube.com,3,2400:1a00:8000:4::73,100.0
+alive.github.com,3,2400:1a00:8000:4::73,96.0
+addons-pa.clients6.google.com,3,2400:1a00:8000:4::73,109.0
+c.bing.com,3,2400:1a00:8000:4::73,90.0
+cdn.linearicons.com,3,2400:1a00:8000:4::73,99.0
+cdnjs.cloudflare.com,3,2400:1a00:8000:4::73,100.0
+cf-st.sc-cdn.net,3,2400:1a00:8000:4::73,96.0
+connect.facebook.net,3,2400:1a00:8000:4::73,100.0
+api.msn.com,3,2400:1a00:8000:4::73,91.0
+api.github.com,3,2400:1a00:8000:4::73,94.0
+pro.fontawesome.com,3,2400:1a00:8000:4::73,99.0
+maxcdn.bootstrapcdn.com,3,2400:1a00:8000:4::73,103.0
+github.githubassets.com,3,2400:1a00:8000:4::73,103.0
+lh3.google.com,3,2400:1a00:8000:4::73,94.0
+growth-web-dev-tool.mesh.sc-corp.net,3,2400:1a00:8000:4::73,116.0
+googleads.g.doubleclick.net,3,2400:1a00:8000:4::73,107.0
+video.xx.fbcdn.net,3,2400:1a00:8000:4::73,98.0
+session.snapchat.com,3,2400:1a00:8000:4::73,100.0
+scontent.xx.fbcdn.net,3,2400:1a00:8000:4::73,101.0
+sentry.sc-prod.net,3,2400:1a00:8000:4::73,98.0
+s.sc-cdn.net,3,2400:1a00:8000:4::73,92.0
+platform.twitter.com,3,2400:1a00:8000:4::73,100.0
+play.google.com,3,2400:1a00:8000:4::73,95.0
+scontent.fktm8-1.fna.fbcdn.net,3,2400:1a00:8000:4::73,110.0
+ogads-pa.clients6.google.com,3,2400:1a00:8000:4::73,108.0
+peoplestack-pa.clients6.google.com,3,2400:1a00:8000:4::73,114.0
+peoplestackwebexperiments-pa.clients6.google.com,3,2400:1a00:8000:4::73,128.0
+i.ytimg.com,3,2400:1a00:8000:4::73,91.0
+mail-ads.google.com,3,2400:1a00:8000:4::73,99.0
+lh3.googleusercontent.com,3,2400:1a00:8000:4::73,105.0
+ssl.gstatic.com,3,2400:1a00:8000:4::73,95.0
+static.doubleclick.net,3,2400:1a00:8000:4::73,102.0
+signaler-pa.clients6.google.com,3,2400:1a00:8000:4::73,111.0
+vcf.bing.com,3,2400:1a00:8000:4::73,92.0
+user-images.githubusercontent.com,3,2400:1a00:8000:4::73,113.0
+us-central1-gcp.api.snapchat.com,3,2400:1a00:8000:4::73,112.0
+unpkg.com,3,2400:1a00:8000:4::73,89.0
+tpc.googlesyndication.com,3,2400:1a00:8000:4::73,105.0
+taskassist-pa.clients6.google.com,3,2400:1a00:8000:4::73,113.0
+static.xx.fbcdn.net,3,2400:1a00:8000:4::73,99.0
+www.instagram.com,3,2400:1a00:8000:4::73,97.0
+static.snapchat.com,3,2400:1a00:8000:4::73,99.0
+www.google-analytics.com,3,2400:1a00:8000:4::73,104.0
+waa-pa.clients6.google.com,3,2400:1a00:8000:4::73,106.0
+youtube.com,3,2400:1a00:8000:4::73,91.0
+xpaywalletcdn-prod.azureedge.net,3,2400:1a00:8000:4::73,112.0
+yt3.ggpht.com,3,2400:1a00:8000:4::73,93.0
+google.com,2,"2400:1a00:8000:4::73, 8.8.8.8",80.0
